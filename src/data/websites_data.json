@@ -1,0 +1,502 @@
+[
+    {
+        "website_url":  "http://brutalistwebsites.com/raw",
+        "id":  1,
+        "image_url":  "images/001_raw.jpg"
+    },
+    {
+        "website_url":  "http://www.diss-list.com",
+        "id":  2,
+        "image_url":  "images/002_diss-list.com.jpg"
+    },
+    {
+        "website_url":  "http://nelsonheinemann.com",
+        "id":  3,
+        "image_url":  "images/003_nelsonheinemann.com.jpg"
+    },
+    {
+        "website_url":  "http://middleplane.com",
+        "id":  4,
+        "image_url":  "images/004_middleplane.com.jpg"
+    },
+    {
+        "website_url":  "http://americanmillenni.al",
+        "id":  5,
+        "image_url":  "images/005_americanmillenni.al.jpg"
+    },
+    {
+        "website_url":  "http://takeawalkonthewildside.rietveldacademie.nl",
+        "id":  6,
+        "image_url":  "images/006_takeawalkonthewildside.rietveldacademie.nl.jpg"
+    },
+    {
+        "website_url":  "http://utrecht.jp",
+        "id":  7,
+        "image_url":  "images/007_utrecht.jp.jpg"
+    },
+    {
+        "website_url":  "http://chiangus.vision",
+        "id":  8,
+        "image_url":  "images/008_chiangus.vision.jpg"
+    },
+    {
+        "website_url":  "http://howilearnedtolovetheindiestry.info",
+        "id":  9,
+        "image_url":  "images/009_howilearnedtolovetheindiestry.info.jpg"
+    },
+    {
+        "website_url":  "http://zavidova.com",
+        "id":  10,
+        "image_url":  "images/010_zavidova.com.jpg"
+    },
+    {
+        "website_url":  "http://beherenowchild.com",
+        "id":  11,
+        "image_url":  "images/011_beherenowchild.com.jpg"
+    },
+    {
+        "website_url":  "http://arrc.site",
+        "id":  12,
+        "image_url":  "images/012_arrc.site.jpg"
+    },
+    {
+        "website_url":  "http://vinovell.cat",
+        "id":  13,
+        "image_url":  "images/013_vinovell.cat.jpg"
+    },
+    {
+        "website_url":  "http://holdmenow.rietveldacademie.nl",
+        "id":  14,
+        "image_url":  "images/014_holdmenow.rietveldacademie.nl.jpg"
+    },
+    {
+        "website_url":  "http://ravecon0.org",
+        "id":  15,
+        "image_url":  "images/015_ravecon0.org.jpg"
+    },
+    {
+        "website_url":  "http://livefromearth.shop",
+        "id":  16,
+        "image_url":  "images/016_livefromearth.shop.jpg"
+    },
+    {
+        "website_url":  "http://dappboi.com",
+        "id":  17,
+        "image_url":  "images/017_dappboi.com.jpg"
+    },
+    {
+        "website_url":  "http://arrangementstudio.com",
+        "id":  18,
+        "image_url":  "images/018_arrangementstudio.com.jpg"
+    },
+    {
+        "website_url":  "http://effecava.xyz",
+        "id":  19,
+        "image_url":  "images/019_effecava.xyz.jpg"
+    },
+    {
+        "website_url":  "http://en-2018.tight.media",
+        "id":  20,
+        "image_url":  "images/020_2018.tight.media.jpg"
+    },
+    {
+        "website_url":  "http://ilyya.com",
+        "id":  21,
+        "image_url":  "images/021_ilya.money.jpg"
+    },
+    {
+        "website_url":  "http://reloadingtechnology.nl",
+        "id":  22,
+        "image_url":  "images/022_reloadingtechnology.nl.jpg"
+    },
+    {
+        "website_url":  "http://velstudio.it",
+        "id":  23,
+        "image_url":  "images/023_velstudio.it.jpg"
+    },
+    {
+        "website_url":  "http://jonasersland.net",
+        "id":  24,
+        "image_url":  "images/024_jonasersland.net.jpg"
+    },
+    {
+        "website_url":  "http://iwillseoulyou.kr",
+        "id":  25,
+        "image_url":  "images/025_iwillseoulyou.kr.jpg"
+    },
+    {
+        "website_url":  "http://dvrsm.com",
+        "id":  26,
+        "image_url":  "images/026_dvrsm.com.jpg"
+    },
+    {
+        "website_url":  "http://studiobigmistake.com",
+        "id":  27,
+        "image_url":  "images/027_studiobigmistake.com.jpg"
+    },
+    {
+        "website_url":  "http://m-o-l-l-y.com",
+        "id":  28,
+        "image_url":  "images/028_m-o-l-l-y.com.jpg"
+    },
+    {
+        "website_url":  "http://devlieg.eu",
+        "id":  29,
+        "image_url":  "images/029_devlieg.eu.jpg"
+    },
+    {
+        "website_url":  "http://crevv.com",
+        "id":  30,
+        "image_url":  "images/030_crevv.com.jpg"
+    },
+    {
+        "website_url":  "http://stu-b-io.com",
+        "id":  31,
+        "image_url":  "images/031_stu-b-io.com.jpg"
+    },
+    {
+        "website_url":  "http://travisscott.com",
+        "id":  32,
+        "image_url":  "images/032_travisscott.com.jpg"
+    },
+    {
+        "website_url":  "http://secret-friend.xyz",
+        "id":  33,
+        "image_url":  "images/033_secret-friend.xyz.jpg"
+    },
+    {
+        "website_url":  "http://bergenassembly.no",
+        "id":  34,
+        "image_url":  "images/034_bergenassembly.no.jpg"
+    },
+    {
+        "website_url":  "http://adamclarkecolour.com",
+        "id":  35,
+        "image_url":  "images/035_adamclarkecolour.com.jpg"
+    },
+    {
+        "website_url":  "http://design.byform.co",
+        "id":  36,
+        "image_url":  "images/036_design.byform.co.jpg"
+    },
+    {
+        "website_url":  "http://blockchainkids.xyz",
+        "id":  37,
+        "image_url":  "images/037_blockchainkids.xyz.jpg"
+    },
+    {
+        "website_url":  "http://escolalateral.com",
+        "id":  38,
+        "image_url":  "images/038_escolalateral.com.jpg"
+    },
+    {
+        "website_url":  "http://purho.it",
+        "id":  39,
+        "image_url":  "images/039_purho.it.jpg"
+    },
+    {
+        "website_url":  "http://sshh.nyc",
+        "id":  40,
+        "image_url":  "images/040_sshh.nyc.jpg"
+    },
+    {
+        "website_url":  "http://56.digital",
+        "id":  41,
+        "image_url":  "images/041_56.digital.jpg"
+    },
+    {
+        "website_url":  "http://timur.red",
+        "id":  42,
+        "image_url":  "images/042_timur.red.jpg"
+    },
+    {
+        "website_url":  "http://futurecorp.london",
+        "id":  43,
+        "image_url":  "images/043_futurecorp.london.jpg"
+    },
+    {
+        "website_url":  "http://twomuch.studio/christmas",
+        "id":  44,
+        "image_url":  "images/044_twomuch.studio_christmas.jpg"
+    },
+    {
+        "website_url":  "http://trapstone.life",
+        "id":  45,
+        "image_url":  "images/045_trapstone.life.jpg"
+    },
+    {
+        "website_url":  "http://kostasmurkudis.net",
+        "id":  46,
+        "image_url":  "images/046_kostasmurkudis.net.jpg"
+    },
+    {
+        "website_url":  "http://mirelleborra.com",
+        "id":  47,
+        "image_url":  "images/047_mirelleborra.com.jpg"
+    },
+    {
+        "website_url":  "http://nytimes.com/interactive/2018/12/11/style/2018-year-in-review.html",
+        "id":  48,
+        "image_url":  "images/048_nytimes.com_interactive_2018_12_11_style_2018-year-in-review.html.jpg"
+    },
+    {
+        "website_url":  "http://projected.capital",
+        "id":  49,
+        "image_url":  "images/049_projected.capital.jpg"
+    },
+    {
+        "website_url":  "http://souvenirjazz.com",
+        "id":  50,
+        "image_url":  "images/050_souvenirjazz.com.jpg"
+    },
+    {
+        "website_url":  "http://nweb.club",
+        "id":  51,
+        "image_url":  "images/051_nweb.club.jpg"
+    },
+    {
+        "website_url":  "http://studio-job.com",
+        "id":  52,
+        "image_url":  "images/052_studio-job.com.jpg"
+    },
+    {
+        "website_url":  "http://masette.com",
+        "id":  53,
+        "image_url":  "images/053_masette.com.jpg"
+    },
+    {
+        "website_url":  "http://gaetan-thirion.com",
+        "id":  54,
+        "image_url":  "images/054_gaetan-thirion.com.jpg"
+    },
+    {
+        "website_url":  "http://poko.ad",
+        "id":  55,
+        "image_url":  "images/055_poko.ad.jpg"
+    },
+    {
+        "website_url":  "http://galaxiay2k.com",
+        "id":  56,
+        "image_url":  "images/056_galaxiay2k.com.jpg"
+    },
+    {
+        "website_url":  "http://gracehoffman.com",
+        "id":  57,
+        "image_url":  "images/057_gracehoffman.com.jpg"
+    },
+    {
+        "website_url":  "http://jamespants.com",
+        "id":  58,
+        "image_url":  "images/058_jamespants.com.jpg"
+    },
+    {
+        "website_url":  "http://moon.fyi",
+        "id":  59,
+        "image_url":  "images/059_moon.fyi.jpg"
+    },
+    {
+        "website_url":  "http://modeselektor.com",
+        "id":  60,
+        "image_url":  "images/060_modeselektor.com.jpg"
+    },
+    {
+        "website_url":  "http://thehappening.us",
+        "id":  61,
+        "image_url":  "images/061_thehappening.us.jpg"
+    },
+    {
+        "website_url":  "http://perfectmag.co",
+        "id":  62,
+        "image_url":  "images/062_perfectmag.co.jpg"
+    },
+    {
+        "website_url":  "http://wastedwish.com",
+        "id":  63,
+        "image_url":  "images/063_wastedwish.com.jpg"
+    },
+    {
+        "website_url":  "http://art-ams.com",
+        "id":  64,
+        "image_url":  "images/064_art-ams.com.jpg"
+    },
+    {
+        "website_url":  "http://leaveorstay.info",
+        "id":  65,
+        "image_url":  "images/065_leaveorstay.info.jpg"
+    },
+    {
+        "website_url":  "http://bcrikko.github.io/NES.css",
+        "id":  66,
+        "image_url":  "images/066_bcrikko.github.io_NES.css.jpg"
+    },
+    {
+        "website_url":  "http://99percentoffsale.com",
+        "id":  67,
+        "image_url":  "images/067_99percentoffsale.com.jpg"
+    },
+    {
+        "website_url":  "http://radicalzz.studio",
+        "id":  68,
+        "image_url":  "images/068_radicalzz.studio.jpg"
+    },
+    {
+        "website_url":  "http://participantinc.org",
+        "id":  69,
+        "image_url":  "images/069_participantinc.org.jpg"
+    },
+    {
+        "website_url":  "http://mostmeaningful.org",
+        "id":  70,
+        "image_url":  "images/070_mostmeaningful.org.jpg"
+    },
+    {
+        "website_url":  "http://namespace.studio",
+        "id":  71,
+        "image_url":  "images/071_namespace.studio.jpg"
+    },
+    {
+        "website_url":  "http://temporarymark.com",
+        "id":  72,
+        "image_url":  "images/072_temporarymark.com.jpg"
+    },
+    {
+        "website_url":  "http://stromwender.nl",
+        "id":  73,
+        "image_url":  "images/073_stromwender.nl.jpg"
+    },
+    {
+        "website_url":  "http://pleunverhoofstad.com",
+        "id":  74,
+        "image_url":  "images/074_pleunverhoofstad.com.jpg"
+    },
+    {
+        "website_url":  "http://studio-otto.com",
+        "id":  75,
+        "image_url":  "images/075_studio-otto.com.jpg"
+    },
+    {
+        "website_url":  "http://diego-iggo.com",
+        "id":  76,
+        "image_url":  "images/076_diego-iggo.com.jpg"
+    },
+    {
+        "website_url":  "http://logicmag.io",
+        "id":  77,
+        "image_url":  "images/077_logicmag.io.jpg"
+    },
+    {
+        "website_url":  "http://gillianwilkins.com",
+        "id":  78,
+        "image_url":  "images/078_gillianwilkins.com.jpg"
+    },
+    {
+        "website_url":  "http://typical-organization.com",
+        "id":  79,
+        "image_url":  "images/079_typical-organization.com.jpg"
+    },
+    {
+        "website_url":  "http://i-type-ny.groznov.co",
+        "id":  80,
+        "image_url":  "images/080_i-type-ny.groznov.co.jpg"
+    },
+    {
+        "website_url":  "http://kellenrenstrom.com",
+        "id":  81,
+        "image_url":  "images/081_kellenrenstrom.com.jpg"
+    },
+    {
+        "website_url":  "http://divs.in/divs",
+        "id":  82,
+        "image_url":  "images/082_divs.in_divs.jpg"
+    },
+    {
+        "website_url":  "http://fromouterspace.it",
+        "id":  83,
+        "image_url":  "images/083_fromouterspace.it.jpg"
+    },
+    {
+        "website_url":  "http://yrstruly.uk",
+        "id":  84,
+        "image_url":  "images/084_yrstruly.uk.jpg"
+    },
+    {
+        "website_url":  "http://l-i-l.de",
+        "id":  85,
+        "image_url":  "images/085_l-i-l.de.jpg"
+    },
+    {
+        "website_url":  "http://thesearch.co.za",
+        "id":  86,
+        "image_url":  "images/086_thesearch.co.za.jpg"
+    },
+    {
+        "website_url":  "http://inthecity.strelka.com",
+        "id":  87,
+        "image_url":  "images/087_inthecity.strelka.com.jpg"
+    },
+    {
+        "website_url":  "http://dossierindustries.co",
+        "id":  88,
+        "image_url":  "images/088_dossierindustries.co.jpg"
+    },
+    {
+        "website_url":  "http://studio-push.com",
+        "id":  89,
+        "image_url":  "images/089_studio-push.com.jpg"
+    },
+    {
+        "website_url":  "http://marrowbone.ie",
+        "id":  90,
+        "image_url":  "images/090_marrowbone.ie.jpg"
+    },
+    {
+        "website_url":  "http://x20xx.com",
+        "id":  91,
+        "image_url":  "images/091_x20xx.com.jpg"
+    },
+    {
+        "website_url":  "http://evenevenflomflom.com",
+        "id":  92,
+        "image_url":  "images/092_evenevenflomflom.com.jpg"
+    },
+    {
+        "website_url":  "http://waumap.project9.co.kr",
+        "id":  93,
+        "image_url":  "images/093_waumap.project9.co.kr.jpg"
+    },
+    {
+        "website_url":  "http://ellenallien.de",
+        "id":  94,
+        "image_url":  "images/094_ellenallien.de.jpg"
+    },
+    {
+        "website_url":  "http://kanerobinson.com",
+        "id":  95,
+        "image_url":  "images/095_kanerobinson.com.jpg"
+    },
+    {
+        "website_url":  "http://madewithmsg.com",
+        "id":  96,
+        "image_url":  "images/096_madewithmsg.com.jpg"
+    },
+    {
+        "website_url":  "http://txtbooks.us",
+        "id":  97,
+        "image_url":  "images/097_txtbooks.us.jpg"
+    },
+    {
+        "website_url":  "http://stefanobona.net",
+        "id":  98,
+        "image_url":  "images/098_stefanobona.net.jpg"
+    },
+    {
+        "website_url":  "http://davidpenuela.com",
+        "id":  99,
+        "image_url":  "images/099_davidpenuela.com.jpg"
+    },
+    {
+        "website_url":  "http://pitchfestival.com.au",
+        "id":  100,
+        "image_url":  "images/100_pitchfestival.com.au.jpg"
+    }
+]
