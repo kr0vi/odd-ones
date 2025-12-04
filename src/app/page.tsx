@@ -78,7 +78,7 @@ export default function Home() {
       {/* DELETE POP UP  */}
       <AnimatePresence>
       {popup && (
-          <div className="md:w-full h-full fixed bg-black/40 flex items-center justify-center top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-100 ">
+          <div className="w-full h-full fixed bg-black/40 flex items-center justify-center top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-100 ">
             <motion.div
               initial={{ opacity: 0, scale: 0.8, filter: "blur(8px)" }}
               animate={{ opacity: 1, scale: 1, filter: "blur(0px)" }}
