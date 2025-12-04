@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Instrument_Serif } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "./context/ThemeContext";
-
+import { Analytics } from "@vercel/analytics/next";
 const InstrumentSerif = Instrument_Serif({
   weight: ["400"],
 });
@@ -42,6 +42,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <Analytics />
       <body className={`${InstrumentSerif.className}  antialiased`}>
         <ThemeProvider>{children}</ThemeProvider>
       </body>
