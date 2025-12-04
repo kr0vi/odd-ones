@@ -3,12 +3,12 @@ import data from "@/data/websites_data.json";
 
 function GridSection() {
   return (
-    <section className="w-full px-8 pb-16">
+    <section className="w-full px-8 pb-16 ">
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-16">
         {data.map((site) => {
           console.log(site);
           return (
-            
+            <div className='relative'>
               <Link
                 key={site.id}
                 href={site.website_url}
@@ -25,7 +25,8 @@ function GridSection() {
                   <p>{site.image_url.split("_").pop()?.replace(".jpg", "")}</p>
                 </div>
               </Link>
-            
+              {/* <p className='text-sm font-black absolute top-5 right-0 bg-white/70 backdrop-blur-lg'> Mark as Not Available</p> */}
+            </div>
           );
         })}
       </div>
