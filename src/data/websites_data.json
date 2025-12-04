@@ -5,16 +5,6 @@
         "image_url":  "images/001_raw.jpg"
     },
     {
-        "website_url":  "http://www.diss-list.com",
-        "id":  2,
-        "image_url":  "images/002_diss-list.com.jpg"
-    },
-    {
-        "website_url":  "http://nelsonheinemann.com",
-        "id":  3,
-        "image_url":  "images/003_nelsonheinemann.com.jpg"
-    },
-    {
         "website_url":  "http://middleplane.com",
         "id":  4,
         "image_url":  "images/004_middleplane.com.jpg"
